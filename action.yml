@@ -1,0 +1,9 @@
+name: 'Firebase Deploy'
+author: 'John Pickett <john-pickett@github.com>'
+description: 'A GitHub Action to deploy to Firebase Hosting'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'fire'
+  color: 'purple'
