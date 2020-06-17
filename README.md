@@ -1,3 +1,5 @@
+## Note: I have not used or updated this package in several months, and it may be broken. 
+
 # Deploy to Firebase
 
 A GitHub Action to deploy to Firebase Hosting
